@@ -22,8 +22,3 @@ Add CSS grid into `head` markup
  * [CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/).
  * [Bootstrap](http://getbootstrap.com/) for class denominations inspiration.
 
-## Licence
-
-Source code can be found on [github](https://github.com/davzb/flexbox-grid), licenced under [Beer-ware](http://en.wikipedia.org/wiki/Beerware).
-
-Developed by [David Bernard](http://www.david-bernard.ch) | [davidbernardCH](https://twitter.com/davidbernardCH)
